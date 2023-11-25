@@ -1,4 +1,4 @@
-![MasterHead](https://img.itch.zone/aW1nLzEwODczODM5LnBuZw==/original/LqFvnw.png)
+![MasterHead](https://docs.unrealengine.com/5.0/Images/what-is-new/unreal-engine-5-0-release-notes/image_0.png)
 <h1 align="center">Hi 👋, I'm Hakkı Koçar</h1>
 <h3 align="center">A passionate game developer from Türkiye</h3>
 
