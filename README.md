@@ -1,6 +1,6 @@
 ![MasterHead](https://docs.unrealengine.com/5.0/Images/what-is-new/unreal-engine-5-0-release-notes/image_0.png)
 <h1 align="center">Hi 👋, I'm Hakkı Koçar</h1>
-<h3 align="center">A passionate game developer from Türkiye</h3>
+<h3 align="center">I am a game developer. I am improving myself in the Unreal Engine.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
